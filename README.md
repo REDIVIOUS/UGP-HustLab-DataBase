@@ -1,6 +1,6 @@
 # UGP-HustLab-DataBase
 [undergraduate project in hust] a staff salary management system.
-## 数据库系统大作业
+#### some reminders of the code
 * 文件夹中由三个文件/文件夹组成：qt项目源码、sql文件（用于创建基本表和视图）、readme。
 * qt源码在DataBase_System文件夹中
 * 可执行文件也在DataBase_System文件夹中，但是注意若在非我方主机上执行，需要重新配置数据库连接的参数。
